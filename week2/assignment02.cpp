@@ -62,7 +62,7 @@ int main()
    {
       case 'a':
          cin.ignore();
-         //testInfixToPostfix();
+         testInfixToPostfix();
          break;
       case 'b':
          cin.ignore();
